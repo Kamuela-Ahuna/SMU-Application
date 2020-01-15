@@ -1,0 +1,6 @@
+﻿  Completed_Huffman_Compressor.cpp
+C:\Users\Student\source\repos\Completed_Huffman_Compressor\Completed_Huffman_Compressor\Completed_Huffman_Compressor.cpp(104,12): warning C4244:  'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Student\source\repos\Completed_Huffman_Compressor\Completed_Huffman_Compressor\Completed_Huffman_Compressor.cpp(267,11): warning C4244:  'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Student\source\repos\Completed_Huffman_Compressor\Completed_Huffman_Compressor\Completed_Huffman_Compressor.cpp(269,11): warning C4244:  'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Student\source\repos\Completed_Huffman_Compressor\Completed_Huffman_Compressor\Completed_Huffman_Compressor.cpp(404,13): warning C4244:  'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Completed_Huffman_Compressor.vcxproj -> C:\Users\Student\source\repos\Completed_Huffman_Compressor\Debug\Completed_Huffman_Compressor.exe
