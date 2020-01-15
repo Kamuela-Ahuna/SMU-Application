@@ -10,7 +10,7 @@ Note: All code for this project is in C++ through Visual Studios. If you have
 any issues with the project, please do not hesitate to contact me at the following
 information:
 Email: ahunak@student.swosu.edu
-Phone: 580-641-2519
+Alternative Email: kamuelaahuna@gmail.com
 
 ## Item One
 
@@ -30,7 +30,7 @@ The second file is the "output.txt" document. This file is where the decompresse
 string will be placed. If the program runs correctly, the output.txt file and the
 input.txt file should match.
 
-## Item two
+## Item Two
 
 The second item to take note of is the Completed_Huffman_Compressor.sln file.
 This is the Visual Studio file you should use when running the program. It contains
@@ -38,7 +38,7 @@ the code that I have written to complete this assignment. I have been having iss
 uploading this folder recently, so I have included an additional item that will
 contain the code I have written in the event that this item is not usable upon review.
 
-## Item three
+## Item Three
 
 The final item to familiarize yourself with is the "Backup_Code.md" file. This
 file simply contains a copy of the code used to complete this assignment. Should
