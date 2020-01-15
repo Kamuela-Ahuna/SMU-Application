@@ -1,0 +1,13 @@
+handgun bullets
+bullets ore
+bombs ore
+turret bullets
+electricity energy
+HQ energy
+factories energy
+vehicles energy
+base HQ
+army base
+barracks HQ
+soldier barracks
+fleet vehicles
