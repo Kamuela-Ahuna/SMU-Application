@@ -26,11 +26,12 @@ got stronger with each passing wave. There must also be an alien somewhere in th
 
 The controls are listed below:
 
-| --- | --- |
-| Move | Arrow keys or WASD Keys|
-|Boost | Space (Deals damage and makes the player invulnerable) |
-| Aim | Mouse Movement |
-| Fire | Left Click |
+| Action | Controls                                               |
+| ------ | ------------------------------------------------------ |
+| Move   | Arrow keys or WASD Keys                                |
+| Boost  | Space (Deals damage and makes the player invulnerable) |
+| Aim    | Mouse Movement                                         |
+| Fire   | Left Click                                             |
 
 I was the lead programmer on the project and there were three other members on the team.
 
